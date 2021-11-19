@@ -1,0 +1,3 @@
+/Users/leoho/Desktop/C++/UVA/UVA10071/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/leoho/Desktop/C++/UVA/UVA10071/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/leoho/Desktop/C++/UVA/UVA10071/cmake-build-debug/CMakeFiles/UVA10071.dir
